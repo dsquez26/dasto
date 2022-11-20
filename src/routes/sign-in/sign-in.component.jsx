@@ -8,7 +8,7 @@ import {
   signInWithGoogleRedirect,
   createUserDocumentFromAuth,
 } from "../../utils/firebase.utils";
-import SignUpForm from "../../components/sign-up-form/sign-up-form-component";
+import SignUpForm from "../../components/sign-up-form/sign-up-form.component";
 
 const SignIn = () => {
 
